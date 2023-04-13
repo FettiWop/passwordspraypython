@@ -3,7 +3,7 @@ python password spraying script
 
 
 to use:
-example: python passwordspraypython.py -u <userfile> -f <fqdn> -p <password> -a <attackurl>
+example: python passwordspraypython.py -u userfile -f fqdn -p password -a attackurl
 
 
     <userfile> - Textfile containing our usernames - "users.txt"
